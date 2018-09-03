@@ -1,0 +1,62 @@
+{
+  "_from": "git+https://github.com/tramiere/cordova-plugin-traocr.git",
+  "_id": "cordova-plugin-traocr@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-traocr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/tramiere/cordova-plugin-traocr.git",
+    "rawSpec": "https://github.com/tramiere/cordova-plugin-traocr.git",
+    "saveSpec": "git+https://github.com/tramiere/cordova-plugin-traocr.git.git",
+    "fetchSpec": "https://github.com/tramiere/cordova-plugin-traocr.git.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/tramiere/cordova-plugin-traocr.git.git#e909e00977161e53d905ffaf78dd5b92e497dcee",
+  "_spec": "https://github.com/tramiere/cordova-plugin-traocr.git",
+  "_where": "/home/varun/dev/ocr/node_modules",
+  "author": {
+    "name": "tramiere"
+  },
+  "bugs": {
+    "url": "https://github.com/tramiere/cordova-plugin-traocr.git#issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-traocr",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "\n\t\tThis plugin allows to recognise text from images\n\t",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=3.6.0"
+    }
+  ],
+  "homepage": "https://github.com/tramiere/cordova-plugin-traocr.git#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-traocr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tramiere/cordova-plugin-traocr.git.git"
+  },
+  "version": "1.0.0"
+}
